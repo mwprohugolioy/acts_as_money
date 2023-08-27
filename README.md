@@ -1,1 +1,1 @@
-Fix tfjs exports for ARM64 Dockerfile (#8766)
+Allow Annotator PIL.Image inputs (#8397)
