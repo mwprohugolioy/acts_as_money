@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Update Colab notebook for YOLOv8.1 (#8660)
